@@ -54,4 +54,4 @@ EXAMINA/
 MIT
 
 ---
-*Parte dell'ecosistema [D-ND](https://github.com/GrazianoGuiducci/MM_D-ND).*
+*Parte dell'ecosistema [D-ND](https://github.com/GrazianoGuiducci/MM_D-ND). Vedi anche [d-nd-seed](https://github.com/GrazianoGuiducci/d-nd-seed) — il sistema cognitivo per AI coder.*
